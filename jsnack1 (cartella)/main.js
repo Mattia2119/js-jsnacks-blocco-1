@@ -6,7 +6,7 @@ let somma = 0;
 
 let i = 0;
 
-while (i < 3) {
+while (i < 10) {
 
     let numero = parseInt(prompt("Inserisci un numero"));
 
